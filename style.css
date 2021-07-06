@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
+.item{
+    border-bottom: 1px solid rgb(51, 114, 153);
+    margin-bottom: 10px;  
+    display: flex;
+
+       justify-content: left;
+        align-content: left; 
+        text-align: left;
+        width: 50vw;
+        padding-left: 5px;
+ 
+}
+
+
+
+.container{
+    display: flex;
+flex-direction: column;
+   justify-content: center;
+    align-content: center; 
+    text-align: center;
+    width: 100vw;
+}
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+button{
+    padding: 5px;
+    margin-left: 5px;
+}
+

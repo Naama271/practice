@@ -1,0 +1,14 @@
+.card{
+  width: 200px;
+  border: 1px blue solid;
+  margin: 5px;
+  float: left;
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 30px;
+}
+
+img{
+  width: 80%;
+}
